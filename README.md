@@ -1,3 +1,6 @@
+Eli-Citron
+04/17/2019
+
 # Redux Swapi
 
 ---
